@@ -1,4 +1,13 @@
 body {
   height: 100%;
   width: 100%;
+  text-align: center;
+}
+
+#magic-8 {
+  height: 300px;
+  width: 300px;
+  background-image: url("../img/magic8ball_empty.png");
+  background-size: cover;
+  margin-right: 35%;
 }
